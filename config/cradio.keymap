@@ -72,7 +72,7 @@
             &trans    &trans      &trans     &kp LCTRL   &trans      &msc SCRL_UP  &mmv MOVE_LEFT  &mmv MOVE_DOWN   &mmv MOVE_RIGHT   &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│          │          │          │          │          │   │  &       │  _       │  +       │  │       │          │
-            &trans     &trans     &trans     &trans     &trans       &msc SCROLL_DOWN   &mkp LCLK  &mkp RCLK   &mkp MCLK   &trans
+            &trans     &trans     &trans     &trans     &trans       &msc SCRL_DOWN   &mkp LCLK  &mkp RCLK   &mkp MCLK   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &to 0       &kp LALT     &kp LSHFT   &to 1
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
