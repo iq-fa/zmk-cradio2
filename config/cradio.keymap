@@ -55,9 +55,9 @@
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
             &kp ESC    &kp N1     &kp N2     &kp N3     &kp LBKT      &kp RBKT    &kp HOME  &kp UARW   &kp END    &kp BSPC
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-            &kp TAB    &kp N4   &hp LCTRL N5  &ht LGUI N6  &kp RET    &kp PG_UP   &kp LARW   &kp DARW   &kp RARW   &kp SEMI
+            &kp TAB    &kp N4   &ht LCTRL N5  &ht LGUI N6  &kp RET    &kp PG_UP   &kp LARW   &kp DARW   &kp RARW   &kp SEMI
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-           &kp GRAVE     &kp N7     &kp N8     &kp N9     &kp N0      &kp PG_DN     &kp MINUS  &kp EQUAL  &kp PIPE     &to 2
+           &kp GRAVE     &kp N7     &kp N8     &kp N9     &kp N0      &kp PG_DN     &kp MINUS  &kp EQUAL  &kp BSLH     &to 2
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &to 0       &kp LALT     &kp LSHFT   &to 3
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
