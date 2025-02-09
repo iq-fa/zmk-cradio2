@@ -67,7 +67,7 @@
         left_layer {
             bindings = <
         //╭──────────┬──────────┬──────────┬──────────┬──────────╮   ╭──────────┬──────────┬──────────┬──────────┬──────────╮
-            &studio_unlock  &trans   &trans   &trans    &trans         &trans   &msc SCRL_LEFT   &mmv MOVE_UP   &msc SCROLL_RIGHT   &trans
+            &studio_unlock  &trans   &trans   &trans    &trans         &trans   &msc SCRL_LEFT   &mmv MOVE_UP   &msc SCRL_RIGHT   &trans
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
             &trans    &trans      &trans     &kp LCTRL   &trans      &msc SCRL_UP  &mmv MOVE_LEFT  &mmv MOVE_DOWN   &mmv MOVE_RIGHT   &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
