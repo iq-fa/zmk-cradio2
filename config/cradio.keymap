@@ -64,7 +64,7 @@
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
             &trans    &trans      &kp LCTRL  &kp LGUI   &trans      &msc SCRL_UP  &mmv MOVE_LEFT  &mmv MOVE_DOWN   &mmv MOVE_RIGHT   &kp GRAVE
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
-            &to 3     &kp K_MUTE &kp K_VOL_DOWN &kp K_VOL_UP &kp PSCRN  &msc SCRL_DOWN   &mkp LCLK  &mkp RCLK   &mkp MCLK   &trans
+            &to 3     &kp K_MUTE &kp K_VOL_DOWN &trans &kp PSCRN       &msc SCRL_DOWN   &mkp LCLK  &mkp RCLK   &mkp MCLK   &trans
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┴──────────┴──────────╯
                                              &to 1       &kp LALT     &kp RSHFT   &to 0
         //                                 ╰──────────┴──────────╯   ╰──────────┴──────────╯
